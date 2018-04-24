@@ -23,5 +23,4 @@ a live cell, as if by reproduction.
 
 
 
-
-Gra napisana w ramach warsztatów CodersLab.pl.
+Game was written during CodersLab.pl workshop.
